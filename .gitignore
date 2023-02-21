@@ -3,3 +3,7 @@
 
 # IDE configs
 .vscode
+.idea
+
+build
+graphene_stubs.egg-info
